@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dillinger_sample
+title: Dillinger_sample
 ---
 # Welcome to Dillinger md creator
 
