@@ -1,3 +1,7 @@
+---
+layout: home
+title: home
+---
 # About Me
 
 Hello! This is my new website created with. 
@@ -6,6 +10,5 @@ Hello! This is my new website created with.
 * Learn how to use Markdown.
 * Build a cool documentation site.
 * Keep things simple!
-* IKER!!!
 
 MD makes it really easy to turn these notes into a website.

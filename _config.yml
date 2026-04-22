@@ -1,4 +1,7 @@
+title: My Documentation Site
+theme: minima
+# The following line is optional but helps if things don't show up
 header_pages:
-  - about.md
-  - gallery.md
   - index.md
+  - dillinger_sample.md
+  - gallery.md
